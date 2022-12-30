@@ -31,8 +31,8 @@ global.botname = 'Dani Maker☆' //ubah jadi nama bot mu, note tanda ' gausah di
 global.footer = 'Dani Maker☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281251549899','6281348106274'] // ubah aja pake nomor lu
-global.premium = ['6281251549899','6281348106274'] // ubah aja pake nomor lu
+global.owner = ['6289629733278','6289629733278'] // ubah aja pake nomor lu
+global.premium = ['6289629733278','6289629733278'] // ubah aja pake nomor lu
 global.packname = 'Dani Maker☆' // ubah aja
 global.ownerr = ['Dani Maker☆'] // ubaha aja
 global.author = 'Dani Maker☆' //ubah aja
